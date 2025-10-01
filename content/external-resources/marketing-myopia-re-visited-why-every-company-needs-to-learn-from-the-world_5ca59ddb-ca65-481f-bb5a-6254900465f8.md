@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://iveybusinessjournal.com/publication/marketing-myopia-re-visited-why-every-company-needs-to-learn-from-the-world/
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Marketing Myopia Re-visited: Why Every Company Needs to Learn from the World'
