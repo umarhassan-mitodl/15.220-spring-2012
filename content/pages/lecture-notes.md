@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of lecture topics, slides for select
   class sessions, and typed notes, which outline key questions, core concepts, and
   additional thoughts that were offered during class discussions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

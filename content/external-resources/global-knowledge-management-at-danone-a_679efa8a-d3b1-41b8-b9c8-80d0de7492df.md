@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://hbr.org/product/global-knowledge-management-at-danone-a/an/608107-PDF-ENG
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Global Knowledge Management at Danone (A)

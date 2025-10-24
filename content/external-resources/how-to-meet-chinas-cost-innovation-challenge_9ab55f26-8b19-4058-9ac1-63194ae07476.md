@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://iveybusinessjournal.com/publication/how-to-meet-chinas-cost-innovation-challenge/
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: How to Meet China's Cost Innovation Challenge
